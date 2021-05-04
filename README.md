@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning web scrapping
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ignacio
+- 
+🔭 I’m currently working on [MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
+- 💬 Ask me about ...
 
 
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
