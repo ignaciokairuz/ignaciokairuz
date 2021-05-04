@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning web scrapping
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ignacio
+
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)
+  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
 - 
 🔭 I’m currently working on [MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
@@ -24,7 +28,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://ignaciokairuz-hv8rxb0bu-ignaciokairuz.vercel.app/api/spotify-playing" alt="Nacho Kairuz Spotify Playing" width="350" />](https://open.spotify.com/user/0j2gyo9jtupswgwsqhlpwm7yl)
+[<img src="https://https://https://ignaciokairuz.vercel.app/api/spotify" alt="Nacho Kairuz Spotify Playing" width="350" />](https://open.spotify.com/user/0j2gyo9jtupswgwsqhlpwm7yl)
 
 
 
