@@ -24,7 +24,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://ignaciokairuz-blhihka62-ignaciokairuz.vercel.app/api/spotify-playing" alt="Nacho Kairuz Spotify Playing" width="350" />](https://open.spotify.com/user/0j2gyo9jtupswgwsqhlpwm7yl)
+[<img src="https://ignaciokairuz.vercel.app/api/spotify-playing" alt="Nacho Kairuz Spotify Playing" width="350" />](https://open.spotify.com/user/0j2gyo9jtupswgwsqhlpwm7yl)
 
 
 
