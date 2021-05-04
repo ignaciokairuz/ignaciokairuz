@@ -24,7 +24,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/0j2gyo9jtupswgwsqhlpwm7yl)
+[<img src="https://now-playing.vercel.app/api/spotify-playing" alt="Nacho Kairuz Spotify Playing" width="350" />](https://open.spotify.com/user/0j2gyo9jtupswgwsqhlpwm7yl)
 
 
 
