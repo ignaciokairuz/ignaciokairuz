@@ -28,7 +28,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-fa2a7rnec-ignaciokairuz.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/0j2gyo9jtupswgwsqhlpwm7yl)
+[<img src="https://playing-in-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/0j2gyo9jtupswgwsqhlpwm7yl)
 
 
 ### Connect with me:
