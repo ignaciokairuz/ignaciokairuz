@@ -26,7 +26,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Spotify Playing 🎧
+### Check out my playlist on Spotify! 🎧 
 
 [<img src="https://now-playing-ignaciokairuz.vercel.app/api/spotify-playing"  width="350" />](https://open.spotify.com/user/0j2gyo9jtupswgwsqhlpwm7yl)
 
@@ -93,6 +93,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 </details>
