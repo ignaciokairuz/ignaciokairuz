@@ -27,7 +27,7 @@
 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I have [a song I wrote]on spotify (https://open.spotify.com/track/6ejVXUctLRU9DMnGhlXbcQ?si=9a1a54e915474607)
+- ⚡ Fun fact: I have [a song I wrote on spotify](https://open.spotify.com/track/6ejVXUctLRU9DMnGhlXbcQ?si=9a1a54e915474607)
 
 
 ### Check out my playlist on Spotify! 🎧 
