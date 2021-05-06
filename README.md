@@ -20,7 +20,6 @@
 
 - 📄 Know about my experiences [s](s)
 
-- ⚡ Fun fact : 
 
 
 
@@ -35,37 +34,8 @@
 - 
 🔭 I’m currently working on [MEVN-CLI](https://raw.githubusercontent.com/ignaciokairuz/personal-website/main/assets/Blue%20Minimalist%20Modern%20Resume.pdf)
 
-
-
-
-
-
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-
-
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I have a song I wrote [uploaded to Spotify](https://open.spotify.com/track/6ejVXUctLRU9DMnGhlXbcQ?si=9a1a54e915474607)
-- 🎸 Music band [videoclip](https://youtu.be/Z9JTWkw_qZg) and [instagram](https://www.instagram.com/amalayalibertad/)
-
-
-### Check out my playlist on Spotify! 🎧 
-
-[<img src="https://now-playing-ignaciokairuz.vercel.app/api/spotify-playing"  width="350" />](https://open.spotify.com/playlist/3xpGIHMigJlI3OCZTtxD9c)
-
-
-### Connect with me:
-
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -79,9 +49,51 @@
 
 
 
+### Connect with me:
+
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/jamesgeorge007/jamesgeorge007/issues/1) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ignaciokairuz&show_icons=true&hide_border=true" />
+
+</details>
+
+
+## I'm a human too
+
+- ⚡ Fun fact: I have a song I wrote [uploaded to Spotify](https://open.spotify.com/track/6ejVXUctLRU9DMnGhlXbcQ?si=9a1a54e915474607)
+- 🎸 Music band [videoclip](https://youtu.be/Z9JTWkw_qZg) and [instagram](https://www.instagram.com/amalayalibertad/)
+
+
+[<img src="https://now-playing-ignaciokairuz.vercel.app/api/spotify-playing"  width="350" />](https://open.spotify.com/playlist/3xpGIHMigJlI3OCZTtxD9c)
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -104,20 +116,7 @@
 ---
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/jamesgeorge007/jamesgeorge007/issues/1) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-<!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ignaciokairuz&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://ignaciokairuz.com.ar
 [youtube]: https://youtube.com/codeSTACKr
