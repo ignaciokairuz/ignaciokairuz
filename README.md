@@ -26,7 +26,7 @@
 
 - 📝 [Resume](https://raw.githubusercontent.com/ignaciokairuz/personal-website/main/assets/Blue%20Minimalist%20Modern%20Resume.pdf)
 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goal: Work as a Python developer 
 
 ### Languages and Tools:
 
@@ -40,7 +40,8 @@
 
 <br/>
 <br/>
-<br/>
+ 
+---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -49,8 +50,6 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
