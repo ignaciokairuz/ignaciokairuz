@@ -11,15 +11,11 @@
 
 
 
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
- 
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+
 - 
 🔭 I’m currently working on [MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)]
 
-- 💬 Ask me about ...
 
 
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
@@ -145,6 +141,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignaciokairuz&show_icons=true&locale=en&layout=compact" alt="ignaciokairuz" /></p>
+
 
 
