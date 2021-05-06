@@ -1,6 +1,26 @@
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, People call me Nacho</h1>
+<h3 align="center">A passionate Industrial engineering student and Python developer from Argentina</h3>
 
-<h1 align="center">⚠️ WORK UNDER CONSTRUCTION ⚠️</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ignaciokairuz&label=Profile%20views&color=0e75b6&style=flat" alt="ignaciokairuz" /> </p>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+- 🔭 I’m currently working on [MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
+
+- 🌱 I’m currently learning **s**
+
+- 🤝 I’m looking for help with [s](s)
+
+- 📝 I regularly write articles on [s](s)
+ 
+- 💬 Ask me about anything, I am happy to help;
+
+
+- 📫 How to reach me **s**
+
+- 📄 Know about my experiences [s](s)
+
+- ⚡ Fun fact : 
 
 
 
@@ -107,30 +127,6 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, People call me Nacho</h1>
-<h3 align="center">A passionate Industrial engineering student and Python developer from Argentina</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ignaciokairuz&label=Profile%20views&color=0e75b6&style=flat" alt="ignaciokairuz" /> </p>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-- 🔭 I’m currently working on [MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
-
-- 🌱 I’m currently learning **s**
-
-- 🤝 I’m looking for help with [s](s)
-
-- 📝 I regularly write articles on [s](s)
- 
-- 💬 Ask me about anything, I am happy to help;
-
-
-- 📫 How to reach me **s**
-
-- 📄 Know about my experiences [s](s)
-
-- ⚡ Fun fact : 
 
 
 
