@@ -12,31 +12,20 @@
 
 - 🌱 I’m currently learning web scraping
 
-- 🤝 I’m looking for help with [s](s)
+- 🤝 I’m looking for help with building roadmap to work with AI projects
 
-- 📝 I regularly write articles on [s](s)
+<!-- 📝 I often write articles about things I'm learning [here](https://ignaciokairuz.com.ar/blog)-->
  
 - 💬 Ask me about anything, I am happy to help;
 
-
-- 📫 How to reach me **s**
-
-- 📄 Know about my experiences [s](s)
-
-
-
+- 📫 How to reach me : ikairuz@fi.uba.ar ➡️️ ✉️️
 
 - 👀 I’m interested in artificial inteligence
 
-- 💞️ I’m looking to collaborate on projects
+- 👬 I’m looking to collaborate on projects
 
 - 📝 [Resume](https://raw.githubusercontent.com/ignaciokairuz/personal-website/main/assets/Blue%20Minimalist%20Modern%20Resume.pdf)
 
-
-
-
-
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
@@ -78,7 +67,7 @@
 </details>
 
 
-## I'm a human too
+## More about me:
 
 - ⚡ Fun fact: I have a song I wrote [uploaded to Spotify](https://open.spotify.com/track/6ejVXUctLRU9DMnGhlXbcQ?si=9a1a54e915474607)
 - 🎸 Music band [videoclip](https://youtu.be/Z9JTWkw_qZg) and [instagram](https://www.instagram.com/amalayalibertad/)
