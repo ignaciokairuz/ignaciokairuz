@@ -1,13 +1,12 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, People call me Nacho</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, People call me Nacho</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=ignaciokairuz&label=Profile%20views&color=0e75b6&style=flat" alt="ignaciokairuz" /> </p>
 <h3 align="center">A passionate Industrial engineering student and Python developer from Argentina</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ignaciokairuz&label=Profile%20views&color=0e75b6&style=flat" alt="ignaciokairuz" /> </p>
+---
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on [MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
+- 🔭 I’m currently working on [python-scraping](https://github.com/ignaciokairuz/python-scraping)
 
-- 🌱 I’m currently learning **s**
+- 🌱 I’m currently learning web scraping
 
 - 🤝 I’m looking for help with [s](s)
 
@@ -23,16 +22,15 @@
 
 
 
-- 👀 I’m interested in data science and artificial inteligence
+- 👀 I’m interested in artificial inteligence
 
 - 💞️ I’m looking to collaborate on projects
 
-- 📝 [Resume]()
+- 📝 [Resume](https://raw.githubusercontent.com/ignaciokairuz/personal-website/main/assets/Blue%20Minimalist%20Modern%20Resume.pdf)
 
 
 
-- 
-🔭 I’m currently working on [MEVN-CLI](https://raw.githubusercontent.com/ignaciokairuz/personal-website/main/assets/Blue%20Minimalist%20Modern%20Resume.pdf)
+
 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
