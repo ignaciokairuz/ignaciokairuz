@@ -8,12 +8,12 @@
 
 - 💞️ I’m looking to collaborate on projects
 
-
+- 📝 [Resume]()
 
 
 
 - 
-🔭 I’m currently working on [MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
+🔭 I’m currently working on [MEVN-CLI](https://raw.githubusercontent.com/ignaciokairuz/personal-website/main/assets/Blue%20Minimalist%20Modern%20Resume.pdf)
 
 
 
@@ -133,7 +133,7 @@
 
 - 📄 Know about my experiences [s](s)
 
-- ⚡ Fun fact **s**
+- ⚡ Fun fact : 
 
 
 
