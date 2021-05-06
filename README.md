@@ -117,6 +117,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ignaciokairuz&label=Profile%20views&color=0e75b6&style=flat" alt="ignaciokairuz" /> </p>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently working on [MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
 
 - 🌱 I’m currently learning **s**
@@ -124,8 +126,9 @@
 - 🤝 I’m looking for help with [s](s)
 
 - 📝 I regularly write articles on [s](s)
+ 
+- 💬 Ask me about anything, I am happy to help;
 
-- 💬 Ask me about **s**
 
 - 📫 How to reach me **s**
 
