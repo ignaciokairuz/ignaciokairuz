@@ -24,7 +24,7 @@
 
 - 👬 I’m looking to collaborate on projects
 
-- 📝 [Resume](https://raw.githubusercontent.com/ignaciokairuz/personal-website/main/assets/Blue%20Minimalist%20Modern%20Resume.pdf)
+- 📝 Take a look at my [Resume](https://raw.githubusercontent.com/ignaciokairuz/personal-website/main/assets/Blue%20Minimalist%20Modern%20Resume.pdf)
 
 - 🥅 2021 Goal: Work as a Python developer 
 
@@ -59,7 +59,7 @@
 </details>
 
 <br/>
-<br/>
+
 
 ---
 
