@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I have a song I wrote [uploaded to Spotify](https://open.spotify.com/track/6ejVXUctLRU9DMnGhlXbcQ?si=9a1a54e915474607)
-- 🎸 Music band [videoclip](youtu.be/Z9JTWkw_qZg) and [instagram](https://www.instagram.com/amalayalibertad/)
+- 🎸 Music band [videoclip](https://youtu.be/Z9JTWkw_qZg) and [instagram](https://www.instagram.com/amalayalibertad/)
 
 
 ### Check out my playlist on Spotify! 🎧 
