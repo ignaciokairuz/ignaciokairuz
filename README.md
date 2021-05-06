@@ -65,15 +65,15 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+
 
 <!-- YOUTUBE:START -->
 
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
 
----
+
+
 
 ### 📕 Latest Blog Posts
 
