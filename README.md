@@ -74,7 +74,8 @@
 
 - ⚡ Fun fact: I have a song I wrote [uploaded to Spotify](https://open.spotify.com/track/6ejVXUctLRU9DMnGhlXbcQ?si=9a1a54e915474607)
 - 🎸 Music band [videoclip](https://youtu.be/Z9JTWkw_qZg) and [instagram](https://www.instagram.com/amalayalibertad/)
-
+- 🎧 My favorite playlist 
+👇
 
 [<img src="https://now-playing-ignaciokairuz.vercel.app/api/spotify-playing"  width="350" />](https://open.spotify.com/playlist/3xpGIHMigJlI3OCZTtxD9c)
 
