@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, People call me Nacho</h1> 
-<h3 align="center">A passionate Industrial engineering student and Python developer from Buenos Aires, Argentina</h3>
+<h3 align="center">A passionate Industrial engineering student and pythonista from Buenos Aires, Argentina</h3>
 
 ---
 
