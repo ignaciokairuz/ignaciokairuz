@@ -20,7 +20,7 @@
 
 - 📫 How to reach me ? : ikairuz@fi.uba.ar ➡️️ ✉️️
 
-- 👀 I’m interested in artificial inteligence
+- 👀 I’m interested in artificial inteligence and Data Science
 
 - 👬 I’m looking to collaborate on projects
 
