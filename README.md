@@ -8,9 +8,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on [python-scraping](https://github.com/ignaciokairuz/python-scraping)
+- 🔭 I’m currently working on [Web_Scraping_Exercises](https://github.com/ignaciokairuz/Web_Scraping_Exercises)
 
-- 🌱 I’m currently learning web scraping
+- 🌱 I’m currently learning [web scraping](https://github.com/ignaciokairuz/python-scraping)
 
 - 🤝 I’m looking for help with building a roadmap in order to be able to work with AI projects
 
