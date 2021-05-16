@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with building a roadmap in order to be able to work with AI projects
 
-<!-- 📝 I often write articles about things I'm learning [here](https://ignaciokairuz.com.ar/blog)-->
+- 📝 I started to write about things I'm learning on my own [blog](https://ignaciokairuz.wordpress.com)
  
 - 💬 Ask me about anything, I am happy to help;
 
