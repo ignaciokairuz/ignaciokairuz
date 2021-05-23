@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Web_Scraping_Exercises](https://github.com/ignaciokairuz/Web_Scraping_Exercises)
 
-- 🌱 I’m currently learning [web scraping](https://www.coursera.org/learn/python-network-data)
+- 🌱 I’m currently learning [web scraping](https://www.coursera.org/learn/python-network-data) and [SQL programming](https://www.linkedin.com/learning/learning-sql-programming-8382385/)
 
 - 🤝 I’m looking for help with building a roadmap in order to be able to work with AI projects
 
