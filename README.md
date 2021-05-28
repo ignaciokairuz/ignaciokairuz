@@ -15,6 +15,8 @@
 - 🤝 I’m looking for help with building a roadmap in order to be able to work with AI projects
 
 - 📝 I started to write about things I'm learning on my own [blog](https://ignaciokairuz.wordpress.com)
+
+- ⌨️ Typing speed = [50 wpm](https://www.typing.com/apiv1/student/tests/161291407/120890729/certificate)
  
 - 💬 Ask me about anything, I am happy to help;
 
