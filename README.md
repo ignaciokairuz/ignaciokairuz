@@ -16,7 +16,7 @@
 
 - 📝 I started to write about things I'm learning on my own [blog](https://ignaciokairuz.wordpress.com)
 
-- ⌨️ Current typing speed : [50 wpm](https://www.typing.com/student/verify#161394811-120890729)
+- ⌨️ Current typing speed : [52 wpm](https://www.typing.com/apiv1/student/tests/161394811/120890729/certificate)
  
 - 💬 Ask me about anything, I am happy to help;
 
