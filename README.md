@@ -90,7 +90,7 @@
 
 
 [<img align="left" alt="igkairuz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ignaciokairuzeguia/)
-[<img align="left" alt="igkairuz" | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ignaciokairuz.com.ar/)
+[<img align="left" alt="igkairuz | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ignaciokairuz.com.ar/)
 [<img align="left" alt="igkairuz | Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ignaciokairuz.wordpress.com/blog)
 [<img align="left" alt="igkairuz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />](https://www.youtube.com/channel/UCixfCbebKWDQQIXHBP11I7w)
 [<img align="left" alt="igkairuz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/nacho.kairuz)
