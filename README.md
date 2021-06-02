@@ -26,8 +26,6 @@
 
 - 📝 Take a look at my [Resume](https://raw.githubusercontent.com/ignaciokairuz/personal-website/main/assets/Blue%20Minimalist%20Modern%20Resume.pdf)
 
-- ⌨️ Current typing speed : [52 wpm](https://www.typing.com/apiv1/student/tests/161394811/120890729/certificate)
-
 - 🥅 2021 Goal : Work as a Python developer 
 
 ### Languages and Tools:
@@ -65,6 +63,7 @@
 
 ## More about me:
 
+- ⌨️ Current typing speed : [52 wpm](https://www.typing.com/apiv1/student/tests/161394811/120890729/certificate)
 - ⚡ Fun fact: I have a song I wrote [uploaded to Spotify](https://open.spotify.com/track/6ejVXUctLRU9DMnGhlXbcQ?si=9a1a54e915474607)
 - 🎸 Music band [videoclip](https://youtu.be/Z9JTWkw_qZg) and [instagram](https://www.instagram.com/amalayalibertad/)
 - 🎧 My favorite playlist 
