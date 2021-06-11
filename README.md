@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [Web_Scraping_Exercises](https://github.com/ignaciokairuz/Web_Scraping_Exercises)
 
-- 🌱 I’m currently learning [web scraping](https://www.coursera.org/learn/python-network-data) and [SQL programming](https://www.linkedin.com/learning/learning-sql-programming-8382385/)
+- 🌱 I’m currently learning [web scraping](https://www.coursera.org/learn/python-network-data) and [data analytics](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-- 🤝 I’m looking for help with building a roadmap in order to be able to work with AI projects
+- 🤝 I'm looking for help with landing a job as a data analyst
 
 - 📝 I started to write about things I'm learning on my own [blog](https://ignaciokairuz.wordpress.com/blog/)
  
@@ -20,13 +20,13 @@
 
 - 📫 How to reach me ? : ikairuz@fi.uba.ar ➡️️ ✉️️
 
-- 👀 I’m interested in Artificial Inteligence and Data Science
+- 👀 I’m interested in Machine Learning and Data Science
 
-- 👬 I’m looking to collaborate on projects
+- 👬 I’m looking to collaborate on interesting projects
 
 - 📝 Take a look at my [Resume](https://raw.githubusercontent.com/ignaciokairuz/personal-website/main/assets/Blue%20Minimalist%20Modern%20Resume.pdf)
 
-- 🥅 2021 Goal : Work as a Python developer 
+- 🥅 2021 Goal : Work in an IT role and sharpen my skills
 
 ### Languages and Tools:
 
