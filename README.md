@@ -94,6 +94,7 @@
 [<img align="left" alt="igkairuz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />](https://www.youtube.com/channel/UCixfCbebKWDQQIXHBP11I7w)
 [<img align="left" alt="igkairuz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/nacho.kairuz)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nachokairuz/)
+[<img align="left" alt="codeSTACKr | Flickr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />](https://www.flickr.com/photos/193154299@N03/albums)
 
 
 
