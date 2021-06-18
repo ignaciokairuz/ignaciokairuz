@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Web_Scraping_Exercises](https://github.com/ignaciokairuz/Web_Scraping_Exercises)
 
-- 🌱 I’m currently learning [web scraping](https://www.coursera.org/learn/python-network-data) and [data analytics](https://www.coursera.org/professional-certificates/google-data-analytics)
+- 🌱 I’m learning [web scraping](https://www.coursera.org/learn/python-network-data) and [data analytics](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 - 🤝 I'm looking for help with landing a job as a data analyst
 
