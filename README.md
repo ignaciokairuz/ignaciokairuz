@@ -77,6 +77,7 @@
 - [Resume checklist : 15 points you want to cross off from the list](https://ignaciokairuz.wordpress.com/2021/05/12/example-post/)
 <!-- BLOG-POST-LIST:END -->
 </details>
+
 ---
 
 ## More about me:
