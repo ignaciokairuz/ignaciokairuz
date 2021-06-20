@@ -60,20 +60,18 @@
 
 ---
 
-<details>
-  <summary>📺 Latest YouTube Videos</summary>
+
+### 📺 Latest YouTube Videos
+
 <!-- YOUTUBE:START -->
-- [Overview of Pygame Game "The great farmer"](https://www.youtube.com/watch?v=i9xF7tXocTs)
 <!-- YOUTUBE:END -->
-</details>
+
+
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Scraping : What to do after learning Python basics?](https://ignaciokairuz.wordpress.com/2021/06/02/web-scraping-what-to-do-after-learning-python-basics/)
-- [How to type like hackers in movies : It’s possible for the average Joe.](https://ignaciokairuz.wordpress.com/2021/05/31/how-to-type-like-hackers-in-movies-its-possible-for-the-average-joe/)
-- [First post of the blog :](https://ignaciokairuz.wordpress.com/2021/05/12/my-first-post/)
-- [Who is this guy ?](https://ignaciokairuz.wordpress.com/2021/05/12/who-is-this-guy/)
-- [Resume checklist : 15 points you want to cross off from the list](https://ignaciokairuz.wordpress.com/2021/05/12/example-post/)
 <!-- BLOG-POST-LIST:END -->
+
 
 
 ---
