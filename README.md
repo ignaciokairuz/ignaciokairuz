@@ -14,7 +14,7 @@
 
 - 🤝 I'm looking for help with landing a job as a data analyst
 
-- 📝 I started to write about things I'm learning on my own [blog](https://ignaciokairuz.wordpress.com/blog/)
+<!--- 📝 I started to write about things I'm learning on my own [blog](https://ignaciokairuz.wordpress.com/blog/)-->
  
 - 💬 Ask me about anything, I am happy to help;
 
@@ -61,13 +61,13 @@
 ---
 
 
-### 📺 Latest YouTube Videos
+📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 
-### 📕 Latest Blog Posts
+📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
