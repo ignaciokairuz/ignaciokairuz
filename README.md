@@ -67,7 +67,8 @@
 <!-- YOUTUBE:END -->
 </details>
 
-
+<details>
+  <summary>📕 Latest Blog Posts</summary>
 <!-- BLOG-POST-LIST:START -->
 - [Web Scraping : What to do after learning Python basics?](https://ignaciokairuz.wordpress.com/2021/06/02/web-scraping-what-to-do-after-learning-python-basics/)
 - [How to type like hackers in movies : It’s possible for the average Joe.](https://ignaciokairuz.wordpress.com/2021/05/31/how-to-type-like-hackers-in-movies-its-possible-for-the-average-joe/)
@@ -75,7 +76,7 @@
 - [Who is this guy ?](https://ignaciokairuz.wordpress.com/2021/05/12/who-is-this-guy/)
 - [Resume checklist : 15 points you want to cross off from the list](https://ignaciokairuz.wordpress.com/2021/05/12/example-post/)
 <!-- BLOG-POST-LIST:END -->
-
+</details>
 ---
 
 ## More about me:
