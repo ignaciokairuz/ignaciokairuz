@@ -46,7 +46,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/jamesgeorge007/jamesgeorge007/issues/1) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+1. ❗️ Opened issue [#162](https://github.com/CoreyMSchafer/code_snippets/issues/162) in [CoreyMSchafer/code_snippets](https://github.com/CoreyMSchafer/code_snippets)
 <!--END_SECTION:activity-->
 
 </details>
