@@ -61,14 +61,14 @@
 ---
 
 
-📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Overview of Pygame Game "The great farmer"](https://www.youtube.com/watch?v=i9xF7tXocTs)
 <!-- YOUTUBE:END -->
 
 
-📝 Latest Blog Posts
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Web Scraping : What to do after learning Python basics?](https://ignaciokairuz.wordpress.com/2021/06/02/web-scraping-what-to-do-after-learning-python-basics/)
