@@ -20,7 +20,7 @@
 
 - 📫 How to reach me ? : ikairuz@fi.uba.ar ➡️️ ✉️️
 
-- 👀 I’m interested in Machine Learning and Data Science
+- 👀 I’m interested in [Machine Learning](http://neuralnetworksanddeeplearning.com/chap1.html) and Data Science
 
 - 👬 I’m looking to collaborate on interesting projects
 
