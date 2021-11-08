@@ -64,7 +64,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Overview of Pygame Game "The great farmer"](https://www.youtube.com/watch?v=i9xF7tXocTs)
+- [Overview of Pygame Game &quot;The great farmer&quot;](https://www.youtube.com/watch?v=i9xF7tXocTs)
 <!-- YOUTUBE:END -->
 
 
