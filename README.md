@@ -41,9 +41,9 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
+!--START_SECTION:activity--
 1. ❗️ Opened issue [#162](https://github.com/CoreyMSchafer/code_snippets/issues/162) in [CoreyMSchafer/code_snippets](https://github.com/CoreyMSchafer/code_snippets)
-<!--END_SECTION:activity-->
+!--END_SECTION:activity--
 
 </details>
 
