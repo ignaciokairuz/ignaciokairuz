@@ -28,10 +28,10 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/ignaciokairuz/pygame-videogame/)
-[<img align="left" alt="Selenium" width="26px" src="https://selenium-python.readthedocs.io/_static/logo.png" />](https://github.com/ignaciokairuz/Matlab_NumMethods)
-[<img align="left" alt="PowerBi" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" />](https://github.com/ignaciokairuz/Rstudio_Probability)
-[<img align="left" alt="SQL Server" width="26px" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" />](https://github.com/ignaciokairuz/personal-website)
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/ignaciokairuz)
+[<img align="left" alt="Selenium" width="26px" src="https://selenium-python.readthedocs.io/_static/logo.png" />](https://github.com/ignaciokairuz)
+[<img align="left" alt="PowerBi" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" />](https://github.com/ignaciokairuz)
+[<img align="left" alt="SQL Server" width="26px" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" />](https://github.com/ignaciokairuz)
 <img align="left" alt="TensorFlow" width="26px" src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" />
 <img align="left" alt="GCP" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3RdHj5j9eW66n77N1cJ1nsAVSgrusDvW6fayuJ5mgeRcmY9woDeionGZ4hMwkBVYaVfw&usqp=CAU" />
 <img align="left" alt="Flask" width="26px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />
