@@ -85,15 +85,17 @@
 
 ---
 
+<br/>
+
 ## More about me:
 
-- ⌨️ Current typing speed : [53 wpm](https://www.typing.com/apiv1/student/tests/164136809/120890729/certificate)
-- ⚡ Fun fact: I have a song I wrote [uploaded to Spotify](https://open.spotify.com/track/6ejVXUctLRU9DMnGhlXbcQ?si=9a1a54e915474607)
+<!--- ⌨️ Current typing speed : [53 wpm](https://www.typing.com/apiv1/student/tests/164136809/120890729/certificate)-->
+- ⚡ I have a song I wrote [uploaded to Spotify](https://open.spotify.com/track/6ejVXUctLRU9DMnGhlXbcQ?si=9a1a54e915474607)
 - 🎸 Music band [videoclip](https://youtu.be/Z9JTWkw_qZg) and [instagram](https://www.instagram.com/amalayalibertad/)
-- 🎧 My favorite playlist 
+- 🎧 What am I listening right now ?
 👇🏼
 
-[<img src="https://now-playing-ignaciokairuz.vercel.app/api/spotify-playing"  width="350" />](https://open.spotify.com/playlist/3xpGIHMigJlI3OCZTtxD9c)
+[<img src="https://now-playing-ignaciokairuz.vercel.app/api/spotify-playing"  width="350" />](https://open.spotify.com/user/0j2gyo9jtupswgwsqhlpwm7yl)
 
 
 
@@ -107,9 +109,6 @@
 [<img align="left" alt="igkairuz | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ignaciokairuz.com.ar/)
 [<img align="left" alt="igkairuz | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />](https://ignaciokairuz.wordpress.com/blog)
 [<img align="left" alt="igkairuz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://www.instagram.com/nachokairuz/)
-[<img align="left" alt="igkairuz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/nacho.kairuz/)
-[<img align="left" alt="igkairuz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/nachkai)
-[<img align="left" alt="igkairuz | Flickr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />](https://www.flickr.com/photos/193154299@N03/albums)
 
 
 
