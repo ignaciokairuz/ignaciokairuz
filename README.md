@@ -8,31 +8,27 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on [Web_Scraping_Exercises](https://github.com/ignaciokairuz/Web_Scraping_Exercises)
+- 🔭 I’m currently working on a Mercado Libre Sales Forecasting Project
 
-- 🌱 I’m learning [web scraping](https://www.coursera.org/learn/python-network-data) and [data analytics](https://www.coursera.org/professional-certificates/google-data-analytics)
+- 🌱 I’m learning Google Cloud Platform
 
-- 🤝 I'm looking for help with landing a job as a data analyst
+- 🤝 I'm looking for teamates to create super interesting projects to sell
 
-<!--- 📝 I started to write about things I'm learning on my own [blog](https://ignaciokairuz.wordpress.com/blog/)-->
- 
-- 💬 Ask me about anything, I am happy to help;
+<!--- 📝 I write about how can data can be used to make great decisions on my [blog](https://ignaciokairuz.wordpress.com/blog/)-->
 
 - 📫 How to reach me ? : ikairuz@fi.uba.ar ➡️️ ✉️️
 
-- 👀 I’m interested in [Machine Learning](http://neuralnetworksanddeeplearning.com/chap1.html) and Data Science
-
-- 👬 I’m looking to collaborate on interesting projects
+- 👀 I’m interested in Image processing technologies such as OpenCv
 
 - 📝 Take a look at my [Resume](https://raw.githubusercontent.com/ignaciokairuz/personal-website/main/assets/Resume.pdf)
 
-- 🥅 2021 Goal : Work in an IT role and sharpen my skills
+- 🥅 2023 Goal : Do great in an IT company and create a bigger customer portfolio
 
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/ignaciokairuz/pygame-videogame/)
-[<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />](https://github.com/ignaciokairuz/Matlab_NumMethods)
-[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />](https://github.com/ignaciokairuz/Rstudio_Probability)
+[<img align="left" alt="Selenium" width="26px" src="https://selenium-python.readthedocs.io/_static/logo.png" />](https://github.com/ignaciokairuz/Matlab_NumMethods)
+[<img align="left" alt="PowerBi" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" />](https://github.com/ignaciokairuz/Rstudio_Probability)
 [<img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/ignaciokairuz/personal-website)
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
