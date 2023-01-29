@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, People call me Nacho</h1> 
-<h3 align="center">A passionate Industrial engineering student and pythonista from Buenos Aires, Argentina</h3>
+<h3 align="center">An aspiring Data Analyst from Buenos Aires, Argentina</h3>
 
 ---
 
@@ -29,10 +29,10 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/ignaciokairuz/pygame-videogame/)
 [<img align="left" alt="Selenium" width="26px" src="https://selenium-python.readthedocs.io/_static/logo.png" />](https://github.com/ignaciokairuz/Matlab_NumMethods)
 [<img align="left" alt="PowerBi" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" />](https://github.com/ignaciokairuz/Rstudio_Probability)
-[<img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/ignaciokairuz/personal-website)
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+[<img align="left" alt="SQL Server" width="26px" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" />](https://github.com/ignaciokairuz/personal-website)
+<img align="left" alt="TensorFlow" width="26px" src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" />
+<img align="left" alt="GCP" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/vf835aa6b9cd89b3f27e5e46b762d88066cfe5cc51e31c466c45c27dbcd2bcca1/cloud/images/social-icon-google-cloud-1200-630.png" />
+<img align="left" alt="Flask" width="26px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />
 
 <br/>
 <br/>
