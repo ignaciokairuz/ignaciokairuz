@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, People call me Nacho</h1> 
+<h1 align="center">THANK YOU FOR YOUR PATIENCE , I'm updating my portfolio right now :)</h1> 
+<h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, People call me Nacho</h1> 
 <h3 align="center">An aspiring Data Analyst from Buenos Aires, Argentina</h3>
 
 ---
