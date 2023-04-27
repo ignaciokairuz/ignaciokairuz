@@ -21,7 +21,7 @@
 
 - 👀 I’m interested in Image processing technologies such as OpenCv
 
-- 📝 Take a look at my [Resume](https://raw.githubusercontent.com/ignaciokairuz/personal-website/main/assets/Resume.pdf)
+- 📝 Take a look at my [Resume](https://raw.githubusercontent.com/ignaciokairuz/personal-website/main/assets/ResumeEN.pdf)
 
 - 🥅 2023 Goal : Do great in an IT company and create a bigger customer portfolio
 
